@@ -104,7 +104,7 @@ public class Main {
     static void task2(Scanner scanner) {
 
         System.out.println();
-        System.out.println("===== ЗАДАЧА 2 =====");
+        System.out.println(" ЗАДАЧА 2 ");
         System.out.println("Сумма на отрезке");
         System.out.println();
 
@@ -147,7 +147,7 @@ public class Main {
     static void task3(Scanner scanner) {
 
         System.out.println();
-        System.out.println("===== ЗАДАЧА 3 =====");
+        System.out.println(" ЗАДАЧА 3 ");
         System.out.println("Объединение интервалов");
         System.out.println();
 
@@ -215,7 +215,7 @@ public class Main {
     static void task4(Scanner scanner) {
 
         System.out.println();
-        System.out.println("===== ЗАДАЧА 4 =====");
+        System.out.println(" ЗАДАЧА 4 ");
         System.out.println("Вместимость корабля");
         System.out.println();
 
@@ -288,7 +288,7 @@ public class Main {
     static void task5(Scanner scanner) {
 
         System.out.println();
-        System.out.println("===== ЗАДАЧА 5 =====");
+        System.out.println(" ЗАДАЧА 5 ");
         System.out.println("Подмассивы с суммой K");
         System.out.println();
 
@@ -341,7 +341,7 @@ public class Main {
     static void task6(Scanner scanner) {
 
         System.out.println();
-        System.out.println("===== ЗАДАЧА 6 =====");
+        System.out.println(" ЗАДАЧА 6 ");
         System.out.println("Переговорные комнаты");
         System.out.println();
 
